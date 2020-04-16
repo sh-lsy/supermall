@@ -3,7 +3,7 @@ module.exports={
     resolve:{
       alias:{
         'assets':"@/assets",
-        'commin':"@/common",
+        'common':"@/common",
         'components':"@/components",
         'network':"@/network",
         'views':"@/views",
