@@ -1,6 +1,6 @@
 <template>
   <div>
-    详情{{iid}}
+    详情{{iid}}aaa
   </div>
 </template>
 
