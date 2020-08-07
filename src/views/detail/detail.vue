@@ -1,6 +1,7 @@
 <template>
   <div>
     详情{{iid}} git marge
+    详情{{iid}}aaa
   </div>
 </template>
 
